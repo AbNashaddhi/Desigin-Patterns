@@ -1,0 +1,7 @@
+C:\NEW P\Desigin Patterns\Desigin Patterns\bin\Debug\Desigin Patterns.exe.config
+C:\NEW P\Desigin Patterns\Desigin Patterns\obj\Debug\Desigin Patterns.csproj.AssemblyReference.cache
+C:\NEW P\Desigin Patterns\Desigin Patterns\obj\Debug\Desigin Patterns.csproj.CoreCompileInputs.cache
+C:\NEW P\Desigin Patterns\Desigin Patterns\bin\Debug\Desigin Patterns.exe
+C:\NEW P\Desigin Patterns\Desigin Patterns\bin\Debug\Desigin Patterns.pdb
+C:\NEW P\Desigin Patterns\Desigin Patterns\obj\Debug\Desigin Patterns.exe
+C:\NEW P\Desigin Patterns\Desigin Patterns\obj\Debug\Desigin Patterns.pdb
